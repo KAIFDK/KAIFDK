@@ -97,8 +97,7 @@ I'm a **Data Engineer** with hands-on experience designing and building **produc
 
 ## Let's Connect
 
-- **LinkedIn:** <Link url="https://www.linkedin.com/in/mohammad-kaif-16306b253/" title="Mohammad Kaif"/>
-- **GitHub:** <Link url="https://github.com/KAIFDK" title="KAIFDK"/>
+- **LinkedIn:** https://www.linkedin.com/in/mohammad-kaif-16306b253
 - **Email:** mdkaifdoddamani@gmail.com
 
 ---
