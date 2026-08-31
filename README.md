@@ -75,41 +75,7 @@ I'm a **Data Engineer** with hands-on experience designing and building **produc
 
 ---
 
-## Featured Project
 
-### Formula 1 Lakehouse — End-to-End Data Engineering
-
-<AsyncImageGroup query={["Formula 1 Databricks Lakehouse architecture Azure ADLS Delta Lake","Databricks Delta Lake Medallion Architecture Bronze Silver Gold diagram"]} layout=carousel/>
-
-**Tech:** Databricks • PySpark • Spark SQL • Delta Lake • Unity Catalog • ADLS Gen2
-
-### Highlights
-
-- Built an **incremental batch pipeline** using Medallion Architecture.
-- Implemented **Bronze → Silver → Gold** data transformations.
-- Used **Delta MERGE** for idempotent incremental processing.
-- Built **Star Schema** dimensional models.
-- Automated workflows with **Databricks Jobs**.
-- Created **Databricks SQL Dashboards** for Formula 1 analytics.
-- Integrated **GitHub Repos** for CI/CD-ready development.
-
-**Repository:**  
-🔗 **https://github.com/KAIFDK/Formula-1**
-
----
-
-## Professional Experience
-
-### Data Engineer Intern — MindMatrix
-
-**Feb 2026 – Jul 2026**
-
-- Built an end-to-end AWS data pipeline using **PySpark, EMR, S3, Athena, Snowflake, and Airflow**.
-- Developed **8 ETL jobs** processing structured and API data.
-- Automated EMR cluster lifecycle with **Airflow DAGs**.
-- Optimized Spark jobs affected by **data skew**, reducing execution time by **65%**.
-- Worked with datasets up to **4 TB**.
-- Implemented **EMR Auto Scaling** and **AWS Secrets Manager** for secure, scalable processing.
 
 ---
 
