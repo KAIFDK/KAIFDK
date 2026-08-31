@@ -1,13 +1,144 @@
-<h1 align="center">Hi 👋, I'm Mohammad Kaif</h1>
-<h3 align="center">I design and build intelligent systems and human-centered interfaces, crafting intelligence with code, building tomorrow's AI solutions, and transforming data into impact.</h3>
+# Hi, I'm Mohammad Kaif 👋
 
-- 📫 How to reach me **mdkaifdoddamani@gmail.com**
+### Data Engineer | PySpark | Databricks | AWS | Azure
 
-<h3 align="left">Connect with me:</h3>
+Building scalable data pipelines, lakehouse architectures, and cloud-native ETL solutions.
+
 <p align="left">
-<a href="https://linkedin.com/in/md kaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md kaif" height="30" width="40" /></a>
-<a href="https://instagram.com/monsieur_kaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monsieur_kaif" height="30" width="40" /></a>
+  <a href="https://github.com/KAIFDK">
+    <img src="https://komarev.com/ghpvc/?username=KAIFDK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-kaif-16306b253/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
+
+## About Me
+
+I'm a **Data Engineer** with hands-on experience designing and building **production-style ETL pipelines** using **PySpark, AWS, and Databricks**.
+
+- Built **8 PySpark ETL jobs** processing datasets up to **4 TB**
+- Optimized Spark performance, reducing runtime from **5 hours to 1 hour 45 minutes**
+- Automated AWS EMR workflows using **Apache Airflow**
+- Built an end-to-end **Databricks Lakehouse** with **Medallion Architecture**
+- Passionate about distributed systems, data warehousing, and cloud-native data engineering
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+
+### Big Data
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?logo=apachespark&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00A3E0?logo=databricks&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apachehive&logoColor=black)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![EMR](https://img.shields.io/badge/Amazon%20EMR-FF9900?logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazonaws&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?logo=microsoftazure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Synapse-0078D4?logo=microsoftazure&logoColor=white)
+
+### Orchestration
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Amazon MWAA](https://img.shields.io/badge/Amazon%20MWAA-232F3E?logo=amazonaws&logoColor=white)
+![Lakeflow Jobs](https://img.shields.io/badge/Databricks%20Jobs-FF3621?logo=databricks&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+
+---
+
+## Featured Project
+
+### Formula 1 Lakehouse — End-to-End Data Engineering
+
+<AsyncImageGroup query={["Formula 1 Databricks Lakehouse architecture Azure ADLS Delta Lake","Databricks Delta Lake Medallion Architecture Bronze Silver Gold diagram"]} layout=carousel/>
+
+**Tech:** Databricks • PySpark • Spark SQL • Delta Lake • Unity Catalog • ADLS Gen2
+
+### Highlights
+
+- Built an **incremental batch pipeline** using Medallion Architecture.
+- Implemented **Bronze → Silver → Gold** data transformations.
+- Used **Delta MERGE** for idempotent incremental processing.
+- Built **Star Schema** dimensional models.
+- Automated workflows with **Databricks Jobs**.
+- Created **Databricks SQL Dashboards** for Formula 1 analytics.
+- Integrated **GitHub Repos** for CI/CD-ready development.
+
+**Repository:**  
+🔗 **https://github.com/KAIFDK/Formula-1**
+
+---
+
+## Professional Experience
+
+### Data Engineer Intern — MindMatrix
+
+**Feb 2026 – Jul 2026**
+
+- Built an end-to-end AWS data pipeline using **PySpark, EMR, S3, Athena, Snowflake, and Airflow**.
+- Developed **8 ETL jobs** processing structured and API data.
+- Automated EMR cluster lifecycle with **Airflow DAGs**.
+- Optimized Spark jobs affected by **data skew**, reducing execution time by **65%**.
+- Worked with datasets up to **4 TB**.
+- Implemented **EMR Auto Scaling** and **AWS Secrets Manager** for secure, scalable processing.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KAIFDK&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KAIFDK&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAIFDK&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Achievements
+
+- Hacker Ring Hackathon 2025
+- KSCST Student Project Programme (State Level Exhibition)
+
+---
+
+## Let's Connect
+
+- **LinkedIn:** <Link url="https://www.linkedin.com/in/mohammad-kaif-16306b253/" title="Mohammad Kaif"/>
+- **GitHub:** <Link url="https://github.com/KAIFDK" title="KAIFDK"/>
+- **Email:** mdkaifdoddamani@gmail.com
+
+---
+
+> *"Turning raw data into reliable, production-ready pipelines."*
