@@ -75,10 +75,6 @@ I'm a **Data Engineer** with hands-on experience designing and building **produc
 
 ---
 
-
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -94,7 +90,7 @@ I'm a **Data Engineer** with hands-on experience designing and building **produc
 
 ## Achievements
 
-- Hacker Ring Hackathon 2025
+- Hacker Ring Hackathon 2025 
 - KSCST Student Project Programme (State Level Exhibition)
 
 ---
