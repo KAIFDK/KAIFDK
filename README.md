@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Kaif 👋
+# Hi, I'm Mohammad Kaif 
 
 ### Data Engineer | PySpark | Databricks | AWS | Azure
 
